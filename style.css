@@ -1,81 +1,15 @@
 body {
     font-family: sans-serif;
-    background-color: black;
 }
+h1 {color:black;
+padding:0.1px;
 
-header {
-    justify-content: space-between;
-    padding: ;
-    margin-bottom: 20px;
 }
+a {color: black;}
+header {background-color:blue;}
+footer {background-color: black}
 
-.button {
-    background-color: #3e8f00;
-    color: black;
-    text-decoration: none;
-    padding: 15px;
-    font-size: 24px;
-    border-radius: 10px;
-}
-
-nav {
-    border-top: 5px solid white;
-    border-bottom: 5px solid white;
-    padding: 25px 100px 25px 95px;
-    justify-content: space-between;
-}
-
-.nav-link {
-    font-size: 24px;
-    color: white;
-    text-decoration: none;
-}
-
-h1 {
-    text-align: center;
-    color: white;
-    font-size: 36px;
-    margin-top: ;
-    margin-bottom: ;
-}
-
-p {
-    font-size: 24px;
-}
-
-.info {
-    flex-wrap: wrap;
-    width: 1100px;
-    margin: 0px;
-    display: flex;
-}
-
-article {
-    background-color: white;
-    padding: 12px;
-    width: 400px;
-    margin: 12px;
-}
-
-.article-but {
-    text-decoration: none;
-    background-color: grey;
-    color: black;
-    font-size: 24px;
-    text-align: center;
-    padding: 10px 75px 10px 75px;
-}
-
-footer {
-    background-color: rgb(68, 255, 0);
-    padding: ;
-    display: flex;
-}
-
-footer a {
-    margin-right: ;
-}
-
-footer p {
-    font-size: 24px;
+li {color:blue;}
+footer p{color:white}
+h2 {font-size:200px;
 }
