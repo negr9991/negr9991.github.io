@@ -12,6 +12,4 @@ h1:hover, p:hover{background-image: linear-gradient( black,red, yellow);}
 li {font-size:20px;
 margin-left:400px}
 li:hover{background-image: linear-gradient( black,red, yellow)}
-.link-header:hover {transform: scale(2); 
-transition: all linear 6s;}
 img{display:flex;}
