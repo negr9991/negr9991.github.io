@@ -1,1 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+h1 {color:black;
+padding:0.1px;
 
+}
+a {color: black;}
+header {background-color:blue;}
+footer {background-color: black}
+
+li {color:blue;}
+footer p{color:white}
+h2 {font-size:1000px;
+}
+p {font-size:20px; color:blue}
