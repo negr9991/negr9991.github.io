@@ -1,8 +1,7 @@
-
 <html>
   <head>
     <title>денис</title>
-    <link rel="stylesheet" href="style.css2"/>
+    <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
     <header>
@@ -14,11 +13,13 @@
         <a class="link-nav" href="https://imgproxy.sbermarket.ru/imgproxy/size-500-500/aHR0cHM6Ly9zYmVybWFya2V0LnJ1L3N0YXRpY3Mvc3ByZWUvcHJvZHVjdHMvMjM4NTM1L29yaWdpbmFsLzIxMzcyNF81LmpwZz8xNTgyNjMyNzMz.jpg"><b>полезная информация</b></a>
       </nav>
       <h1>Web-sites<br/> developer</h1>
-      <p>разметка и стилизация</p>
-      <p>вёрстка сетчатых макетов</p>
-      <p>двумерные анимации и интерактивные элементы</p>
-      <p>мультимедиа на сайте</p>
-
+      <img src="https://w7.pngwing.com/pngs/66/831/png-transparent-facebook-like-3d-icon-thumbnail.png">
+      <ol>
+        <li>разметка и стилизация</li>
+      <li>вёрстка сетчатых макетов</li>
+      <li>двумерные анимации и интерактивные элементы</li>
+      <li>мультимедиа на сайте</li>
+      </ol>
     </main>
     <footer>
 
